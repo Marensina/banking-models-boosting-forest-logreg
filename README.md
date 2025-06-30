@@ -1,22 +1,22 @@
-# 📊 Adaptive Boosting on Banking Dataset (Kaggle)
+# Adaptive Boosting on Banking Dataset (Kaggle)
 
 This machine learning project focuses on predicting whether a client will subscribe to a term deposit, using the **Bank Marketing** dataset from **Kaggle**.
 
-## 🔍 Project Overview
+## Project Overview
 
 - **Dataset**: Bank Marketing Data from [Kaggle](https://www.kaggle.com/)
 - **Goal**: Binary classification — predict client subscription to a term deposit
 - **Baseline model**: Logistic Regression (with and without regularization)
 - **Other models tested**: Random Forest, XGBoost, and Adaptive Boosting (AdaBoost)
 
-## ✅ Key Highlights
+## Key Highlights
 
-- 🥇 **AdaBoost** achieved the **highest accuracy** among all tested models  
-- 🔁 Applied **Grid Search** for hyperparameter tuning  
-- 🧪 Used **SMOTE** to handle class imbalance in the target variable  
+- **AdaBoost** achieved the **highest accuracy** among all tested models  
+- Applied **Grid Search** for hyperparameter tuning  
+- Used **SMOTE** to handle class imbalance in the target variable  
 - 📊 Visualized **correlation matrices** to explore feature relationships  
-- 📈 Generated **ROC curves** to compare model performances  
-- 🔍 Analyzed and documented **top predictive features**
+- Generated **ROC curves** to compare model performances  
+- Analyzed and documented **top predictive features**
 
 
 
