@@ -20,4 +20,4 @@ This machine learning project focuses on predicting whether a client will subscr
 
 
 
-The data used for this is: [Financial Inclusion]([https://www.kaggle.com/datasets/gauravduttakiit/financial-inclusion-in-africa])
+The data used for this is: [Financial Inclusion](https://www.kaggle.com/datasets/gauravduttakiit/financial-inclusion-in-africa)
