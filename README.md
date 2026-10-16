@@ -1,6 +1,6 @@
 # Comparative Analysis of Adaptive Boosting, XGBoost, Random Forest, and Logistic Regression on a Kaggle Banking Dataset
 
-This machine learning project focuses on predicting whether a client will subscribe to a term deposit, using the **Bank Marketing** dataset from **Kaggle**.
+This machine learning project focuses on predicting whether a client will subscribe to a term deposit, using the **Financial Inclusion** dataset from **Kaggle**.
 
 ## Project Overview
 
